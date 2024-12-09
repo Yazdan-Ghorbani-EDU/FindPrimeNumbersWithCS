@@ -1,0 +1,14 @@
+E:\Yazdan_projects\cs_projects\findPrimeNumbers1\findPrimeNumbers1\bin\Release\net8.0\findPrimeNumbers1.exe
+E:\Yazdan_projects\cs_projects\findPrimeNumbers1\findPrimeNumbers1\bin\Release\net8.0\findPrimeNumbers1.deps.json
+E:\Yazdan_projects\cs_projects\findPrimeNumbers1\findPrimeNumbers1\bin\Release\net8.0\findPrimeNumbers1.runtimeconfig.json
+E:\Yazdan_projects\cs_projects\findPrimeNumbers1\findPrimeNumbers1\bin\Release\net8.0\findPrimeNumbers1.dll
+E:\Yazdan_projects\cs_projects\findPrimeNumbers1\findPrimeNumbers1\bin\Release\net8.0\findPrimeNumbers1.pdb
+E:\Yazdan_projects\cs_projects\findPrimeNumbers1\findPrimeNumbers1\obj\Release\net8.0\findPrimeNumbers1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Yazdan_projects\cs_projects\findPrimeNumbers1\findPrimeNumbers1\obj\Release\net8.0\findPrimeNumbers1.AssemblyInfoInputs.cache
+E:\Yazdan_projects\cs_projects\findPrimeNumbers1\findPrimeNumbers1\obj\Release\net8.0\findPrimeNumbers1.AssemblyInfo.cs
+E:\Yazdan_projects\cs_projects\findPrimeNumbers1\findPrimeNumbers1\obj\Release\net8.0\findPrimeNumbers1.csproj.CoreCompileInputs.cache
+E:\Yazdan_projects\cs_projects\findPrimeNumbers1\findPrimeNumbers1\obj\Release\net8.0\findPrimeNumbers1.dll
+E:\Yazdan_projects\cs_projects\findPrimeNumbers1\findPrimeNumbers1\obj\Release\net8.0\refint\findPrimeNumbers1.dll
+E:\Yazdan_projects\cs_projects\findPrimeNumbers1\findPrimeNumbers1\obj\Release\net8.0\findPrimeNumbers1.pdb
+E:\Yazdan_projects\cs_projects\findPrimeNumbers1\findPrimeNumbers1\obj\Release\net8.0\findPrimeNumbers1.genruntimeconfig.cache
+E:\Yazdan_projects\cs_projects\findPrimeNumbers1\findPrimeNumbers1\obj\Release\net8.0\ref\findPrimeNumbers1.dll
